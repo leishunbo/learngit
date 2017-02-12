@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Git branch dev
 Greating a new branch is quick AND simple test
+Git branch merge
